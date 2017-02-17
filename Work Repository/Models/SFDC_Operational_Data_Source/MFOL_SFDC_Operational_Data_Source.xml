@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="PbKvEcNLy6Dzf5U3oddrDnisWioR9VpM3L2n0zrRQpY=" keyVect="QBjd+nCEwkCKwvhvD+ERbA==" exportKeySalt="46ce7359-8701-496e-81ec-168dbbe8eccf" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="ls7eEyq2jYRa6IHYCkoSQCeIrAhB/U8LBqpFcoCnBrI=" keyVect="QY1zhi2enkwd6EBkv0joBg==" exportKeySalt="99876b32-8e2f-46ed-8aa8-755d65c9bee4" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpModFolder">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-14 12:51:33.0]]></Field>
@@ -11,7 +11,7 @@
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IModFolder" type="com.sunopsis.sql.DbInt"><![CDATA[31]]></Field>
 	<Field name="ITxtDescription" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-17 17:24:17.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-17 20:27:43.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ModFolderName" type="java.lang.String"><![CDATA[SFDC Operational Data Source]]></Field>
 	<Field name="ParIModFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -22,7 +22,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[SFDC_CHANNEL_PARTNET_FILES_InPut]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[a728fac8-7faa-404f-b3cb-29b768f18062]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[2674254b0429b46235c2498838c87426958a74db]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[ba09de4d9feda03779831c4a0c6e7e5f60280c4a]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[SFDC_CHANNEL_PARTNET_FILES_InPut/MOD_SFDC_CHANNEL_PARTNET_FILES_InPut.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
