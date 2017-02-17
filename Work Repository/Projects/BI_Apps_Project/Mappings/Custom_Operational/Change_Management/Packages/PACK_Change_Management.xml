@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="jq3kcMhQr4uMAK08NEUsN5EEByYVh/yz01dfbEEldWw=" keyVect="xE/9+PK8y1jA3jnNr2arMQ==" exportKeySalt="d1fff4ed-5904-4e95-8d28-17900cce3ccd" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="OjXMhAhBAZ/Xc1R8QsEVNCcoa+BYWepzhBiaDGxVw/g=" keyVect="6nM0Uih/bBpclWqQHy9WEQ==" exportKeySalt="8a81e69f-532b-4fa9-a085-94b85c8db2a5" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpPackage">
 		<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-14 12:51:36.0]]></Field>
@@ -170,7 +170,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[CHANGE_MANAGEMENT Version 001]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[2b83a943-d868-3a6c-84f9-262488819321]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[505fa2c4575bdabf9bd2767a972ff574d112b9c2]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[1dad8459dd97a9630a4e304613bcd37c4a8579d6]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Scenarios/SCEN_CHANGE_MANAGEMENT_Version_001.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
