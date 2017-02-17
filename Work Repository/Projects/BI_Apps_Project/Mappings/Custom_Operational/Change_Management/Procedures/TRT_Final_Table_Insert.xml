@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="13JieapR0OGgOw2H2xm7M2dBDdOOloTM/YvTsqZysSc=" keyVect="WtpepKsy6aRFDJw8e0uFYg==" exportKeySalt="16e06f22-59f4-4019-a97d-13535346350f" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="gnTbyEDCHEHC+Rxk7h49kg8xb5XKW/cENV2ZYqtvkT8=" keyVect="EPcg4ngCIDYCAKPd1J7F5Q==" exportKeySalt="14509353-a234-4f44-922a-c0dcd073a4f1" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpTrt">
 		<Field name="CleanupOnError" type="java.lang.String">null</Field>
 	<Field name="CompType" type="java.lang.String">null</Field>
@@ -12,13 +12,13 @@
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-14 12:51:36.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[08d33c21-f7bc-3211-8903-362fa76123fb]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IndGenerateLoad" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndIsHidden" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndJrnMethod" type="java.lang.String"><![CDATA[S]]></Field>
 	<Field name="IndSuppSetBased" type="java.lang.String">null</Field>
 	<Field name="IntgType" type="java.lang.String">null</Field>
-	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
 	<Field name="IsConcurrent" type="java.lang.String">null</Field>
 	<Field name="IsSeeded" type="java.lang.String">null</Field>
 	<Field name="IBaseCompKm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -37,7 +37,7 @@
 	<Field name="KmSrcTechno" type="java.lang.String">null</Field>
 	<Field name="KmTechno" type="java.lang.String"><![CDATA[ORACLE]]></Field>
 	<Field name="KmVersion" type="java.lang.String">null</Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-14 12:51:36.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-17 21:26:30.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="LkmType" type="java.lang.String">null</Field>
 	<Field name="LChecksum" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
@@ -73,7 +73,7 @@
 	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
 	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[37011]]></Field>
 	<Field name="DefLanguage" type="java.lang.String">null</Field>
-	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[DS_EBSR1213]]></Field>
+	<Field name="DefLschemaName" type="java.lang.String"><![CDATA[DS_OBAW_DW]]></Field>
 	<Field name="DefTechno" type="java.lang.String"><![CDATA[ORACLE]]></Field>
 	<Field name="ExeChannel" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-14 12:51:36.0]]></Field>
