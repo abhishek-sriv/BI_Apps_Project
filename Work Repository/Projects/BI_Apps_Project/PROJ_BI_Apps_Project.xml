@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="tTsTM3MHDeRujvN1QC627toB0V86jDpZTFpf3/pZIX4=" keyVect="a1SwOmJy/o7cMCcCl9enVw==" exportKeySalt="9e4b56f2-c477-4695-bb24-b550546a1221" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="J5frhR2Jy4hhXOor9H3VSdbdT4wYTnzwZfsrVDR5gtI=" keyVect="L+cWZFmyyDHtto05UZvPUQ==" exportKeySalt="f4ae2d8a-5946-4da2-9695-389c87be99b4" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpProject">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-02-14 12:51:35.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[e39aa1c6-4790-3132-a87c-6f8d8482d119]]></Field>
-	<Field name="IndChange" type="java.lang.String">null</Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-16 22:43:33.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-02-17 23:08:05.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ProjectCode" type="java.lang.String"><![CDATA[BIAPPS]]></Field>
 	<Field name="ProjectName" type="java.lang.String"><![CDATA[BI Apps Project]]></Field>
@@ -23,7 +23,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[Mappings]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[061a1c69-405b-3b4c-9b1d-7aa1026a407f]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[41b5913667021a8b70a7db53bfed4b7d624952ec]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[79cc7b7e9b0756d541589b4ed9e5639e26e2187e]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Mappings/FOLD_Mappings.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
